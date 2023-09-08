@@ -3,3 +3,4 @@ Codeforces Round #851 (Div. 2) A: semi colon;
 05-04-23 --evaluate if brute force works.. no need to over optimize your code
 08-08-23- Handle edge cases if possible seperately for Binary Search.
 11-08-23- choose lo and hi wisely while searching answer,in Binary Search.
+08-09-23- if you are getting WA repeatedly try checking the value of hi and lo, and choose something wise
